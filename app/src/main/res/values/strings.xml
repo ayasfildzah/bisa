@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">bisa</string>
+    <string name="menu_new_task">menu_new_task</string>
+    <string name="menu_refresh">menu_refresh</string>
+    <string name="nama">Nama</string>
+    <string name="about">Massindo Group adalah perusahaan yang bergerak di bedding industry yang sudah berdiri sejak tahun 1983. Brand-brand di bawah naungan Massindo Group sudah terbukti kualitasnya dan dipercaya oleh seluruh masyarakat di Indonesia. Brand- brand tersebut antara lain: Spring Air, Therapedic, Comforta, Super Fit, dan Protect-A-Bed. </string>
+    <string name="produk">Produk-produk Massindo Group juga telah diekspor, diterima dengan baik dan dijual di German, China, Malaysia dan Sri Lanka.</string>
+    <string name="masindo">Massindo Group telah hadir di 20 kota di seluruh Indonesia, yaitu : Medan, Pekanbaru, Jakarta, Bandung, Semarang, Yogyakarta, Surabaya, Bali, Mataram, Samarinda, Balikpapan, Banjarmasin, Manado, Kotamobagu, Makassar, Kendari, Palu, Gorontalo, Ternate dan Ambon. Tak hanya hadir di Indonesia, Massindo Group kini melebarkan sayapnya dengan membuka gallery dan kantor cabang pertamanya di luar negeri, tepatnya di Singapura.</string>
+    <array name="Documents_Tracking">
+        <item>Invoice Acs</item>
+        <item>Invoice GJ</item>
+        <item>Invoice Delivery</item>
+        <item>Surat Jalan Acs</item>
+        <item>Surat Jalan</item>
+    </array>
+</resources>

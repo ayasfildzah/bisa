@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mkp.bisa">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Massindo Group"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".notification"></activity>
+        <activity
+            android:name=".about"
+            android:label="Tentang Kami" />
+        <activity
+            android:name=".dashboard"
+            android:label="Selamat datang" />
+        <activity
+            android:name=".MainActivity"
+            android:label="Scanner" />
+        <activity
+            android:name=".detail"
+            android:label="History"
+            android:parentActivityName=".Login" />
+        <activity
+            android:name=".tampil"
+            android:label="Create Menu"
+            android:parentActivityName=".Login" />
+        <activity
+            android:name=".Login"
+            android:label="Login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
